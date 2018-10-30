@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "NhlStatistics1",
+                "projectName": "NhlStatistics1",
+                "workingDirectory": "/home/local/antlammi/Documents/OhTu/ohtu-viikko1/NhlStatistics1",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "NhlStatistics1",
+                "projectName": "NhlStatistics1",
+                "workingDirectory": "/home/local/antlammi/Documents/OhTu/ohtu-viikko1/NhlStatistics1",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
