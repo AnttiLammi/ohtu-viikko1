@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "ohtuvarasto",
+                "projectName": "ohtuvarasto",
+                "workingDirectory": "/home/local/antlammi/Documents/OhTu/ohtu-viikko1",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "ohtuvarasto",
+                "projectName": "ohtuvarasto",
+                "workingDirectory": "/home/local/antlammi/Documents/OhTu/ohtu-viikko1",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
