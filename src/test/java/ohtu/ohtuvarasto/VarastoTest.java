@@ -95,7 +95,7 @@ public class VarastoTest {
     @Test public void otetaanEnemmanKuinVarastostaLoytyy(){
         varasto.lisaaVarastoon(5.0);
         assertEquals(5.0, varasto.otaVarastosta(10.0), vertailuTarkkuus);
-        assertEquals(1.0, varasto.getSaldo(), vertailuTarkkuus);
+        assertEquals(0.0, varasto.getSaldo(), vertailuTarkkuus);
     }
     @Test
     public void ottaminenLisääTilaa() {
